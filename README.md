@@ -1,7 +1,7 @@
 # truss-take-home
 
 ## How to run
-python3 normalizer.py input_file output_file
+`python3 normalizer.py input_file output_file`
 
 Apologies but I misread the note about reading from stdin, writing to stdout, and printing to stderr. I parse the input and output files as arguments, and print error messages to console. If I had more time after realizing this, I would have corrected it.
 
