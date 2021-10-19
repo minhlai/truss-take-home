@@ -9,3 +9,9 @@ Apologies but I misread the note about reading from stdin, writing to stdout, an
 1. Other than Notes, all other columns are non-empty
 2. Column Headers are kept in consistent order and do not need to be normalized or have non-unicode characters.
 3. 
+
+## Cut for time:
+1. The aforementioned stdin, stdout, and stderr functionality
+2. TotalDuration should have float precision set to higher of Foo and Bar duration
+3. Validate argument parser input for filenames.
+4. 
